@@ -1,0 +1,44 @@
+[
+	{
+		"ANO": 2018,
+		"MES": 12,
+		"REGISTROS": 7,
+		"REG_NOR": 7,
+		"REG_REF": 0,
+		"IMPORTE": 14022,
+		"CAPITAL_NOR": 14022,
+		"CAPITAL_REF": 0,
+		"RECARGO": 1297,
+		"RECARGO_NOR": 1297,
+		"RECARGO_REF": 0,
+		"TOTAL": 15319
+	},
+	{
+		"ANO": 2019,
+		"MES": 1,
+		"REGISTROS": 23,
+		"REG_NOR": 17,
+		"REG_REF": 6,
+		"IMPORTE": 50067,
+		"CAPITAL_NOR": 32022,
+		"CAPITAL_REF": 18045,
+		"RECARGO": 290,
+		"RECARGO_NOR": 290,
+		"RECARGO_REF": 0,
+		"TOTAL": 50357
+	},
+	{
+		"ANO": 2019,
+		"MES": 2,
+		"REGISTROS": 6,
+		"REG_NOR": 5,
+		"REG_REF": 1,
+		"IMPORTE": 9072,
+		"CAPITAL_NOR": 9030,
+		"CAPITAL_REF": 42,
+		"RECARGO": 0,
+		"RECARGO_NOR": 0,
+		"RECARGO_REF": 0,
+		"TOTAL": 9072
+	}
+]

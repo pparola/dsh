@@ -1,0 +1,24 @@
+Tablero
+Graficos
+ >Tira del 2019 / 2018 /2017
+	http://181.119.121.158/api.business/v2/venta/grafico
+	http://181.119.121.158/api.business/v2/cobranza/grafico
+Ventas por cuotas 
+	http://181.119.121.158/api.business/v2/venta/porcantidad-cuotas?ano=2019&mes=08&cartera=T&comercio=
+Cobranza por Vencimiento
+	http://181.119.121.158/api.business/v2/cobranza/vencimientos?mes=01&ano=2019
+Operaciones (Resumen) 
+	-Lista Venta
+		http://181.119.121.158/api.business/v2/venta/porcomercio-diario-vistaV
+	-Lista Cobranza
+		http://181.119.121.158/api.business/v2/cobranza/porcomercio-diario-vistaV
+Operaciones por dia
+	ventas
+	http://181.119.121.158/api.business/v2/venta/porcomercio-diario-vistaH?ano=2019&mes=04&cartera=T
+	Cobranzas
+	http://181.119.121.158/api.business/v2/venta/porcomercio-diario-vistaH?ano=2019&mes=04&cartera=T
+Operaciones por mes
+	Ventas
+	http://181.119.121.158/api.business/v2/venta/porcomercio-mensual-vistaH?cartera=T&ano=2019
+	Cobranzas
+	http://181.119.121.158/api.business/v2/venta/porcomercio-mensual-vistaH?cartera=T&ano=2019
